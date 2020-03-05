@@ -1,0 +1,28 @@
+{
+  "addons": {
+    "{2ba468bc-75b0-4d22-98fe-6fe3ec4ec120}": {
+      "updates": [
+        {
+          "version": "1.0.4",
+          "update_link": "https://ufcgprodist.now.sh/ufcgpro-1.0.4-an+fx.xpi"
+        },
+        {
+          "version": "1.0.5",
+          "update_link": "https://ufcgprodist.now.sh/ufcgpro-1.0.5-an+fx.xpi"
+        },
+        {
+          "version": "1.0.6",
+          "update_link": "https://ufcgprodist.now.sh/ufcgpro-1.0.6-an+fx.xpi"
+        },
+        {
+          "version": "1.0.7",
+          "update_link": "https://ufcgprodist.now.sh/ufcgpro-1.0.7-an+fx.xpi"
+        },
+        {
+          "version": "1.1.0",
+          "update_link": "https://ufcgprodist.now.sh/ufcgpro-1.1.0-an+fx.xpi"
+        }
+      ]
+    }
+  }
+}

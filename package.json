@@ -1,0 +1,16 @@
+{
+  "name": "ufcgpro-dist",
+  "version": "0.0.1",
+  "description": "Distribution for UFCGPro",
+  "main": "index.js",
+  "license": "MIT",
+  "private": "true",
+  "scripts": {
+    "deploy": "now --prod"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "globby": "^11.0.0",
+    "semver-sort": "^0.0.4"
+  }
+}
